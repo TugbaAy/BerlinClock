@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-berliner</actionName>
+            <displayName>berliner</displayName>
+            <goals>
+                <goal>clean</goal>
+                <goal>spring-boot:run</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-berlin2</actionName>
+            <displayName>berlin2</displayName>
+            <goals>
+                <goal>clean</goal>
+                <goal>spring-boot:run</goal>
+            </goals>
+        </action>
+    </actions>
